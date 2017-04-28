@@ -9,8 +9,11 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    My test Page
+  My new Web page managed in Github
     </div>
+        <asp:Button ID="Button1" runat="server" Text="Hello" />
+        <br />
+        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
     </form>
 </body>
 </html>
