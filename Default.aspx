@@ -10,10 +10,13 @@
     <form id="form1" runat="server">
     <div>
   My new Web page managed in Github
+        <br />
     </div>
-        <asp:Button ID="Button1" runat="server" Text="Hello" />
+        <asp:Button ID="Button1" runat="server" Text="Hello World" Width="180px" />
+        <br />
         <br />
         <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+        <br />
     </form>
 </body>
 </html>
